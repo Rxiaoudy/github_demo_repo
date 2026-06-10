@@ -1,0 +1,5 @@
+p,OSR,DAC_clock_MHz,First_R_meeting_targets,Required_bits,THD_at_target_R_percent,Error_at_target_R_percent,R_for_min_THD,Min_THD_percent,R_for_min_error,Min_error_percent
+3,16,8,NaN,NaN,NaN,NaN,9,4.0264924146077,9,2.46877342819558
+7,32,16,NaN,NaN,NaN,NaN,33,2.10791304551534,86,1.20366857723541
+15,64,32,NaN,NaN,NaN,NaN,10,0.88040709412189,138,0.505423243509978
+31,128,64,NaN,NaN,NaN,NaN,51,0.465914148328611,140,0.250777129641357
