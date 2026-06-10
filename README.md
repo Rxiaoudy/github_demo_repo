@@ -2,9 +2,4 @@
 
 this is a demo project
 
-To access this project, run `https://github.com/Rxiaoudy/github_demo_repo.git` under your terminal
-
-
-my fav site is `www.pornhub.com`
-
-my fav pianist is Kristian Zimmerman
+The groundwork of choosing an appropriate OSR and f_samp is in `SineLUTOpt-main`
